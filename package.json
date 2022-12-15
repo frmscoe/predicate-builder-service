@@ -25,7 +25,7 @@
     "@types/redis": "^2.8.28",
     "async": "^3.2.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "kafka-node": "^5.0.0",
     "redis": "^3.0.2"
   },
